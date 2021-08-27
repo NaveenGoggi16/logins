@@ -1,0 +1,32 @@
+.card h3{
+    color: black;
+    text-align: center;
+    padding:6px;
+    margin-bottom: 30px;
+    margin-top: 30px;
+  }
+  .card input{
+      margin-left:134px;
+      width:45%;
+  }
+  .card{
+      margin:30px 450px;
+  }
+  .card .btns-btn,.card .btns-btn:active,.card .btns-btn:focus{
+      margin-bottom: 30px;
+      padding:6px 30px;
+      margin-left:200px;
+      border:none;
+      background-color: rgba(7, 83, 184, 0.925);
+      color:#fff;
+  }
+  .card a{
+    margin-left: 150px;
+      margin-bottom: 30px;
+  }
+  button:focus{
+      outline: none;
+  }
+  body{
+      background-color: aqua;
+  }
